@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<pd:PRQA-DEVIATIONS xmlns:pd="prqaDeviationSchema">
+  <PRQA-DEVIATION>
+    <DEVIATION-TAG>d11</DEVIATION-TAG>
+    <FILENAME>/home/parallels/misra-transfer/sample-code/test.c</FILENAME>
+    <PRQA-ID>3138</PRQA-ID>
+    <INSTANCE-COUNT>1</INSTANCE-COUNT>
+    <SCOPE>EOF</SCOPE>
+    <PRQA-MESSAGE>[E] This in-line assembler construct is a language extension. The code has been ignored. </PRQA-MESSAGE>
+    <RATIONALE>Assembler is required to perform the low level operation</RATIONALE>
+    <COMMENT> </COMMENT>
+    <CLEARQUEST> </CLEARQUEST>
+    <APPROVAL>
+      <APPROVER>Bruce Wayne</APPROVER>
+      <APPROVER>Tony Stark</APPROVER>
+      <APPROVER>Clark Kent</APPROVER>
+      <APPROVER>Frank Castle</APPROVER>
+      <COMMENT>See MISRA deviation review document.</COMMENT>
+      <DATE>2012-08-27</DATE>
+    </APPROVAL>
+  </PRQA-DEVIATION>
+  <PRQA-DEVIATION>
+    <DEVIATION-TAG>d12</DEVIATION-TAG>
+    <FILENAME>/home/parallels/misra-transfer/sample-code/test.c</FILENAME>
+    <PRQA-ID>3402</PRQA-ID>
+    <INSTANCE-COUNT>1</INSTANCE-COUNT>
+    <SCOPE>EOF</SCOPE>
+    <PRQA-MESSAGE>[E] This in-line assembler construct is a language extension. The code has been ignored. </PRQA-MESSAGE>
+    <RATIONALE>Assembler is required to perform the low level operation</RATIONALE>
+    <COMMENT> </COMMENT>
+    <CLEARQUEST> </CLEARQUEST>
+    <APPROVAL>
+      <APPROVER>Bruce Wayne</APPROVER>
+      <APPROVER>Tony Stark</APPROVER>
+      <APPROVER>Clark Kent</APPROVER>
+      <APPROVER>Frank Castle</APPROVER>
+      <COMMENT>See MISRA deviation review document.</COMMENT>
+      <DATE>2012-08-27</DATE>
+    </APPROVAL>
+  </PRQA-DEVIATION>
+</pd:PRQA-DEVIATIONS>
